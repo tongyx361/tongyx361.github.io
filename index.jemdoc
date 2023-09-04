@@ -1,0 +1,35 @@
+# jemdoc: showsource
+= (Shawn) Yuxuan Tong （童雨轩）
+
+~~~
+{}{img_left}{assets/bio.jpg}{alt text}{160}{160}{http://tongyx361.github.io/index.html}
+Junior undergraduate\n
+[https://www.cs.tsinghua.edu.cn/csen/ Computer Science and Technology (CST)], [https://www.tsinghua.edu.cn/en/ Tsinghua University (THU)]\n
+\n
+Research intern @ HKUST NLP, advised by [https://jxhe.github.io/ Prof. Junxian He]\n
+\n
+[tongyx361@gmail.com E-mail: tongyuxuan361 \[AT\] gmail \[DOT\] com]\n
+[http://tongyx361.github.io/assets/cv.pdf CV] \/
+[https://github.com/tongyx361 GitHub] \/
+[https://scholar.google.com/citations?user=6E0O8LcAAAAJ Google Scholar] \/
+[https://twitter.com/tongyx361 X (Twitter)]
+~~~
+
+== Research Interest
+
+I am interested in building AI systems to better serve every human being.
+Especially, I am interested in the following topics:
+- Large Language Models (LLM)
+- Neural Information Retrieval (NIR)
+- AI Aligment（e.g. [https://www.anthropic.com/index/core-views-on-ai-safety Scalable Oversight])
+- AI for Education
+
+== Publications
+
+(\*) denotes co-first authors
+- [https://arxiv.org/abs/2304.05977 ImageReward: Learning and Evaluating Human Preferences for Text-to-Image Generation]\nunder review @ NeurIPS 2023\nJiazheng Xu\*, Xiao Liu\*, Yuchen Wu, _*Yuxuan Tong*_, Qinkai Li, Ming Ding, Jie Tang, Yuxiao Dong
+
+== Research Experience
+
+- 2023.07 - now: Research Intern @ HKUST NLP\n advised by [https://jxhe.github.io/ Prof. Junxian He]
+- 2022.11 - 2023.06: Research Intern @ [https://keg.cs.tsinghua.edu.cn/ THUKEG (Knowledge Engineer Group)]\nadvised by [http://keg.cs.tsinghua.edu.cn/jietang/ Prof. Jie Tang] and [https://keg.cs.tsinghua.edu.cn/yuxiao/ Prof. Yuxiao Dong]
