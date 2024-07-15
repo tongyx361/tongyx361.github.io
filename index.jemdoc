@@ -1,35 +1,105 @@
 # jemdoc: showsource
-= (Shawn) Yuxuan Tong （童雨轩）
+= Shawn/Yuxuan Tong (童雨轩)
 
 ~~~
-{}{img_left}{assets/bio.jpg}{alt text}{160}{160}{http://tongyx361.github.io/index.html}
-Junior undergraduate\n
-[https://www.cs.tsinghua.edu.cn/csen/ Computer Science and Technology (CST)], [https://www.tsinghua.edu.cn/en/ Tsinghua University (THU)]\n
+{}{img_left}{assets/bio.jpg}{Bio. of Yuxuan TONG}{160}{160}{http://tongyx361.github.io/index.html}
+Undergraduate (turning from junior to senior) at\n
+[https://www.cs.tsinghua.edu.cn/csen/ *Department of Computer Science and Technology (DCST)*],\n [https://www.tsinghua.edu.cn/en/ *Tsinghua University (THU)*]\n
 \n
-Research intern @ HKUST NLP, advised by [https://jxhe.github.io/ Prof. Junxian He]\n
+Research intern at [https://www.cs.cmu.edu/~cxcscmu *CX Group, Language Technologies Institute (LTI), Carnegie Mellon University (CMU)*],
+advised by [https://www.cs.cmu.edu/~cx *Prof. Chenyan Xiong*]\n
 \n
-E-mail: tongyuxuan361 \[AT\] gmail \[DOT\] com\n
-[http://tongyx361.github.io/assets/cv.pdf CV] \/
-[https://github.com/tongyx361 GitHub] \/
-[https://scholar.google.com/citations?user=6E0O8LcAAAAJ Google Scholar] \/
-[https://twitter.com/tongyx361 X (Twitter)]
+E-mail: [tongyuxuan361@gmail.com tongyuxuan361@gmail.com] / [tongyx21@mails.tsinghua.edu.cn tongyx21@mails.tsinghua.edu.cn]\n
+\[[http://tongyx361.github.io/assets/cv.pdf Curriculum Vitae (CV)]\]
+\[[https://github.com/tongyx361 GitHub]\]
+\[[https://scholar.google.com/citations?user=6E0O8LcAAAAJ Google Scholar]\]
+\[[https://x.com/tongyx361 X(Twitter)]\]
+\[[http://tongyx361.notion.site Notion]\]
 ~~~
 
-== Research Interest
+== Research Interests
 
 I am interested in building AI systems to better serve every human being.
-Especially, I am interested in the following topics:
-- Large Language Models (LLM)
+Especialy, I am interested in the following topics:
+- Large Language Model (LLM)
 - Neural Information Retrieval (NIR)
-- AI Aligment（e.g. [https://www.anthropic.com/index/core-views-on-ai-safety Scalable Oversight])
+- Scalable Alignment（e.g. [https://www.anthropic.com/index/core-views-on-ai-safety Scalable Oversight])
 - AI for Education
 
 == Publications
 
 (\*) denotes co-first authors
-- [https://arxiv.org/abs/2304.05977 ImageReward: Learning and Evaluating Human Preferences for Text-to-Image Generation]\nunder review @ NeurIPS 2023\nJiazheng Xu\*, Xiao Liu\*, Yuchen Wu, _*Yuxuan Tong*_, Qinkai Li, Ming Ding, Jie Tang, Yuxiao Dong
+
+- [https://tongyx361.github.io/assets/dart-math/paper-dart-math.pdf *DART-Math: Difficulty-Aware Rejection Tuning for Mathematical Problem-Solving*]\n
+Under review\n
+_*Yuxuan Tong*_, Xiwen Zhang, Rui Wang, Ruidong Wu, Junxian He
+
+- [https://neurips.cc/virtual/2023/poster/72054 *ImageReward: Learning and Evaluating Human Preferences for Text-to-Image Generation*]\n
+Accepted by *NeurIPS 2023*\n
+Jiazheng Xu\*, Xiao Liu\*, Yuchen Wu, _*Yuxuan Tong*_, Qinkai Li, Ming Ding, Jie Tang, Yuxiao Dong\n
+
+== Education
+
+- Undergraduate (2021.09 - present)
+  -- [https://www.cs.tsinghua.edu.cn/csen *Department of Computer Science and Technology (DCST)*], [https://www.tsinghua.edu.cn/en *Tsinghua University (THU)*]
+  -- Bachelor's degree in progress
+  -- GPA: 3.8/4.0
 
 == Research Experience
 
-- 2023.07 - now: Research Intern @ HKUST NLP\n advised by [https://jxhe.github.io/ Prof. Junxian He]
-- 2022.11 - 2023.06: Research Intern @ [https://keg.cs.tsinghua.edu.cn/ THUKEG (Knowledge Engineer Group)]\nadvised by [http://keg.cs.tsinghua.edu.cn/jietang/ Prof. Jie Tang] and [https://keg.cs.tsinghua.edu.cn/yuxiao/ Prof. Yuxiao Dong]
+- 2024.07 - present
+  -- [https://www.cs.cmu.edu/~cxcscmu *CX Group, Language Technologies Institute (LTI), Carnegie Mellon University (CMU)*]
+  -- Research intern, advised by [https://www.cs.cmu.edu/~cx *Prof. Chenyan Xiong*].
+  -- Working on *data for on-line (direct) preference optimization algorithms (e.g. DPO)*.
+- 2023.07 - 2024.06
+  -- [https://jxhe.github.io/group *NLP Group, Hong Kong University of Science and Technology (HKUST-NLP)*]
+  -- Research intern, advised by [https://jxhe.github.io/ *Prof. Junxian He*].
+  -- Worked on *synthetic data for mathematical reasoning* since 2023.12,
+  -- before which I worked on
+    --- *process supervision* and *constrained decoding* for *mathematical reasnoning*,
+    --- *model merging*.
+- 2022.11 - 2023.06
+  -- [https://keg.cs.tsinghua.edu.cn/ *Knowledge Engineer Group, Tsinghua University (THUKEG)*]
+  -- Research intern, advised by advised by [http://keg.cs.tsinghua.edu.cn/jietang/ *Prof. Jie Tang*] and [https://keg.cs.tsinghua.edu.cn/yuxiao/ *Prof. Yuxiao Dong*].
+  -- Worked on *reward modeling* and *RLHF* for *text-to-image generation*.
+
+== Projects
+
+- *End-to-End Evaluation Model for Text-to-Image Generation* (2023.04 - 2023.11)
+  -- Admitted and completed as *A-Level (top 25\%)* in /Tsinghua University Initiative Scientific Research Program in 2023/
+
+- Maintainer of the GitHub Repository [https://github.com/THUDM/ImageReward +THUDM/ImageReward+]
+  -- In addition to regular contribution and maintainment, I integrated our /ImageReward/ into [https://github.com/AUTOMATIC1111/stable-diffusion-webui /Stable Diffusion Web UI/]
+
+== Awards
+
+- Tsinghua University Research Scholarship (2023)
+- Tsinghua University Comprehensive Merit Scholarship *(top 5% undergraduates)* (2022)
+
+== Academic Services
+
+- Conference Review: [https://openreview.net/group?id=NeurIPS.cc/2024/Conference NeurIPS 2024]
+
+== Skills
+
+
+- *Programming Languages*: Python, C/C++, TypeScript/JavaScript, etc.
+- *ML Libraries*: PyTorch, DeepSpeed, HuggingFace, vLLM, etc.
+- *Tools*: Git, Shell, SLURM, Linux Utilities, LaTeX, etc.
+
+== Misc.
+
+- I am from [https://en.wikipedia.org/wiki/Shengzhou /Shengzhou (嵊州)/], /Shaoxing/, /Zhejiang/ in /China/, which is the birthplace of [https://en.wikipedia.org/wiki/Yue_opera /Yue Opera (越剧)/] and also famous for delicious food like [https://en.wikipedia.org/wiki/Xiaolongbao /Xiaolongbao (小笼包)/].
+- I spent six years (2009-2015) at [https://zh.wikipedia.org/zh-hans/%E8%80%80%E5%8D%8E%E5%B0%8F%E5%AD%A6 /Yaohua Primary School (耀华小学)/] in /Tianjin/, which is quite happy time.
+
+~~~
+{}{raw}
+<div style="display: flex; justify-content: space-between; align-items: center; height: 300px;">
+    <div style="width: 64%; height: 100%; display: flex; align-items: center;">
+        <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=4UU8UQs_o51H9-EmcQCtqm2Qh0uaOoE0GDXGqLuiodg&cl=ffffff&w=a"></script>
+    </div>
+    <div style="width: 34%; height: 100%; display: flex; align-items: center;">
+        <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=4UU8UQs_o51H9-EmcQCtqm2Qh0uaOoE0GDXGqLuiodg"></script>
+    </div>
+</div>
+~~~
