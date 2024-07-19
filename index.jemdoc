@@ -43,17 +43,18 @@ Specifically, I am interested in the following topics:
 
 (\*) denotes co-first authors
 
-=== [https://tongyx361.github.io/assets/dart-math/paper-dart-math.pdf *DART-Math: Difficulty-Aware Rejection Tuning for Mathematical Problem-Solving*]
+=== [https://arxiv.org/abs/2407.13690 *DART-Math: Difficulty-Aware Rejection Tuning for Mathematical Problem-Solving*]
 
 _*Yuxuan Tong*_, Xiwen Zhang, Rui Wang, Ruidong Wu, Junxian He
 
 Preprint, under review
 
-\[📝 [https://tongyx361.github.io/assets/dart-math/paper-dart-math.pdf Paper@GitHub]\]
+\[📝 [https://arxiv.org/abs/2407.13690 Paper@arXiv]\]
 \[🤗 [https://huggingface.co/collections/hkust-nlp/dart-math-665704599b35de59f8fdf6c1 Datasets&Models@HF]\]
 \[🐱 [https://github.com/hkust-nlp/dart-math Code@GitHub]\]\n
 \[🐦 [https://x.com/tongyx361/status/1811413243350454455 Thread@X(Twitter)]\]
 \[🐶 [https://zhuanlan.zhihu.com/p/708371895 中文博客@知乎]\]
+\[📊 [https://paperswithcode.com/paper/dart-math-difficulty-aware-rejection-tuning\#results Leaderboard@PapersWithCode]\]
 \[📑 [https://github.com/hkust-nlp/dart-math?tab=readme-ov-file\#citation BibTeX]\]
 
 === [https://neurips.cc/virtual/2023/poster/72054 *ImageReward: Learning and Evaluating Human Preferences for Text-to-Image Generation*]
