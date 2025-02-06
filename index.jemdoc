@@ -9,12 +9,12 @@
 I am a *senior undergraduate* at\n
 [https://www.cs.tsinghua.edu.cn/csen/ *Department of Computer Science and Technology (DCST)*],\n [https://www.tsinghua.edu.cn/en/ *Tsinghua University (THU)*].\n
 
-Before, I
-- worked on *preference optimization* at [https://www.cs.cmu.edu/~cxcscmu *CX Group, LTI, CMU*],
-advised by [https://www.cs.cmu.edu/~cx *Prof. Chenyan Xiong*].
-- led [https://github.com/hkust-nlp/dart-math */DART-Math/*] at [https://jxhe.github.io/group *HKUST-NLP*],
+I used to
+- lead the project [https://github.com/eddycmu/demystify-long-cot */Demystifying Long Chain-of-Thought Reasoning in LLMs/*] at [https://www.lti.cs.cmu.edu/ *LTI, CMU*],
+advised by [https://www.phontron.com/ *Prof. Graham Neubig*] and [https://xiangyue9607.github.io/ *Dr. Xiang Yue*].
+- lead [https://github.com/hkust-nlp/dart-math */DART-Math/*] at [https://jxhe.github.io/group *HKUST-NLP*],
 advised by [https://jxhe.github.io *Prof. Junxian He*]
-- worked in [https://github.com/THUDM/ImageReward */ImageReward/*] at [https://keg.cs.tsinghua.edu.cn *THUKEG*],
+- work in [https://github.com/THUDM/ImageReward */ImageReward/*] at [https://keg.cs.tsinghua.edu.cn *THUKEG*],
 advised by [http://keg.cs.tsinghua.edu.cn/jietang *Prof. Jie Tang*] and [https://keg.cs.tsinghua.edu.cn/yuxiao *Prof. Yuxiao Dong*].
 
 E-mail: [tongyuxuan361@gmail.com tongyuxuan361@gmail.com] / [tongyx21@mails.tsinghua.edu.cn tongyx21@mails.tsinghua.edu.cn]\n
@@ -27,11 +27,11 @@ E-mail: [tongyuxuan361@gmail.com tongyuxuan361@gmail.com] / [tongyx21@mails.tsin
 
 == Research Interests
 
-I aim to *build AI systems to better serve every human being, especially for complex intellectual activities*.
+I aim to *build AI systems capable of independently conducting or substantially assisting humans in complex reasoning in long context*.
 
 Specifically, I am interested in the following topics:
 - Large Language Model (LLM)
-- AI for (Advanced)
+- AI for (Complex) Reasoning like (Advanced)
   -- Education (e.g. [https://eurekalabs.ai Eureka Labs])
   -- Research (e.g. [https://scicode-bench.github.io/ SciCode-Bench])
   -- Software Engineering (e.g. [https://www.swebench.com SWE-Bench])
@@ -41,6 +41,17 @@ Specifically, I am interested in the following topics:
 == Publications
 
 (\*) denotes co-first authors
+
+=== [https://arxiv.org/abs/2502.03373 *Demystifying Long Chain-of-Thought Reasoning in LLMs*]
+
+Edward Yeo\*, _*Yuxuan Tong*_\*, Morry Niu, [https://www.phontron.com/ Graham Neubig], [https://xiangyue9607.github.io/ Xiang Yue]
+
+Preprint, under review
+
+\[📝 [https://arxiv.org/abs/2502.03373 Paper@arXiv]\]
+\[🐱 [https://github.com/eddycmu/demystify-long-cot Code@GitHub]\]
+\[🐦 [https://x.com/xiangyue96/status/1887332772198371514 Thread@X(Twitter)]\]
+\[📑 [https://github.com/eddycmu/demystify-long-cot?tab=readme-ov-file\#citation BibTeX]\]
 
 === [https://arxiv.org/abs/2407.13690 *DART-Math: Difficulty-Aware Rejection Tuning for Mathematical Problem-Solving*]
 
@@ -80,8 +91,12 @@ Accepted by *NeurIPS 2023*
 
 == Research Experience
 
-- 2024.07 - 2024.09
-  -- [https://www.cs.cmu.edu/~cxcscmu *CX Group, Language Technologies Institute (LTI), Carnegie Mellon University (CMU)*]
+- 2024.09 - Present
+  -- [https://www.lti.cs.cmu.edu/ *Language Technologies Institute (LTI), Carnegie Mellon University (CMU)*]
+  -- Research intern, advised by [https://www.phontron.com/ *Prof. Graham Neubig*] and [https://xiangyue9607.github.io/ *Dr. Xiang Yue*].
+  -- Worked on *building and understanding models capable of complex reasoning like OpenAI o1*.
+- 2024.07 - 2024.08
+  -- [https://www.lti.cs.cmu.edu/ *Language Technologies Institute (LTI), Carnegie Mellon University (CMU)*]
   -- Research intern, advised by [https://www.cs.cmu.edu/~cx *Prof. Chenyan Xiong*].
   -- Worked on *data for on-line (direct) preference optimization algorithms (e.g. DPO)*.
 - 2023.07 - 2024.06
@@ -115,7 +130,10 @@ Accepted by *NeurIPS 2023*
 
 == Academic Services
 
-- Conference Review: [https://openreview.net/group?id=NeurIPS.cc/2024/Conference NeurIPS 2024], [https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/MATH-AI NeurIPS'24 Workshop on Math-AI], [https://openreview.net/group?id=ICLR.cc/2025/Conference ICLR 2025]
+- Conference Review: [https://openreview.net/group?id=NeurIPS.cc/2024/Conference NeurIPS 2024],
+[https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/MATH-AI NeurIPS'24 Workshop on Math-AI],
+[https://openreview.net/group?id=ICLR.cc/2025/Conference ICLR 2025],
+[https://openreview.net/group?id=ICML.cc/2025/Conference ICML 2025]
 
 == Skills
 
