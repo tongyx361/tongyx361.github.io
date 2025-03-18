@@ -15,6 +15,7 @@ I used to
 advised by [https://www.phontron.com/ *Prof. Graham Neubig*] and [https://xiangyue9607.github.io/ *Dr. Xiang Yue*].
 - lead [https://github.com/hkust-nlp/dart-math */DART-Math/*] at [https://jxhe.github.io/group *HKUST-NLP*],
 advised by [https://jxhe.github.io *Prof. Junxian He*]
+- ...
 
 E-mail: [tongyuxuan361@gmail.com tongyuxuan361@gmail.com] / [tongyx21@mails.tsinghua.edu.cn tongyx21@mails.tsinghua.edu.cn]\n
 \[[http://tongyx361.github.io/assets/cv.pdf Curriculum Vitae (CV)]\]
@@ -48,10 +49,10 @@ Qiying Yu\*, Zheng Zhang\*, _*Yuxuan Tong*_\*$^{\dagger}$, Guangming Sheng\*$^{\
 
 Preprint ($\dagger$ denotes infrastruture leader)
 
-\[📝 [https://arxiv.org/abs/2502.03373 Paper@arXiv]\]
-\[🐱 [https://github.com/eddycmu/demystify-long-cot Code@GitHub]\]
-\[🐦 [https://x.com/xiangyue96/status/1887332772198371514 Thread@X(Twitter)]\]
-\[📑 [https://github.com/eddycmu/demystify-long-cot?tab=readme-ov-file\#citation BibTeX]\]
+\[🏠 [https://dapo-sia.github.io/ Homepage]\]
+\[📝 [https://dapo-sia.github.io/static/pdf/dapo_paper.pdf Paper]\]
+\[🐱 [https://github.com/volcengine/verl/tree/gm-tyx/puffin/main/recipe/dapo Code@GitHub]\]
+\[📑 [https://huggingface.co/datasets/BytedTsinghua-SIA/DAPO-Math-17k Dataset]\]
 
 === [https://arxiv.org/abs/2502.03373 *Demystifying Long Chain-of-Thought Reasoning in LLMs*]
 
