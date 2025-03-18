@@ -43,6 +43,17 @@ Specifically, I am interested in the following topics:
 
 (\*) denotes co-first authors
 
+=== [https://dapo-sia.github.io/ *DAPO: an Open-Source LLM Reinforcement Learning System at Scale*]
+
+Qiying Yu\*, Zheng Zhang\*, _*Yuxuan Tong*_\*$^{\dagger}$, Guangming Sheng\*$^{\dagger}$, ..., Yonghui Wu, Mingxuan Wang
+
+Preprint ($\dagger$ denotes infrastruture leader)
+
+\[📝 [https://arxiv.org/abs/2502.03373 Paper@arXiv]\]
+\[🐱 [https://github.com/eddycmu/demystify-long-cot Code@GitHub]\]
+\[🐦 [https://x.com/xiangyue96/status/1887332772198371514 Thread@X(Twitter)]\]
+\[📑 [https://github.com/eddycmu/demystify-long-cot?tab=readme-ov-file\#citation BibTeX]\]
+
 === [https://arxiv.org/abs/2502.03373 *Demystifying Long Chain-of-Thought Reasoning in LLMs*]
 
 Edward Yeo\*, _*Yuxuan Tong*_\*, Morry Niu, [https://www.phontron.com/ Graham Neubig], [https://xiangyue9607.github.io/ Xiang Yue]
@@ -92,14 +103,16 @@ Accepted by *NeurIPS 2023*
 
 == Research Experience
 
-- 2024.09 - Present
+- 2025.02 - Present
+  -- Seed-Foundation, ByteDance
+  -- Research intern, advised by *Chi Zhang* and [https://sites.google.com/view/haibinlin/ *Haibin Lin*]
+  -- Working on *large-scale reinforcement learning infrastruture*.
+
+- 2024.07 - 2025.02
   -- [https://www.lti.cs.cmu.edu/ *Language Technologies Institute (LTI), Carnegie Mellon University (CMU)*]
   -- Research intern, advised by [https://www.phontron.com/ *Prof. Graham Neubig*] and [https://xiangyue9607.github.io/ *Dr. Xiang Yue*].
   -- Worked on *building and understanding models capable of complex reasoning like OpenAI o1*.
-- 2024.07 - 2024.08
-  -- [https://www.lti.cs.cmu.edu/ *Language Technologies Institute (LTI), Carnegie Mellon University (CMU)*]
-  -- Research intern, advised by [https://www.cs.cmu.edu/~cx *Prof. Chenyan Xiong*].
-  -- Worked on *data for on-line (direct) preference optimization algorithms (e.g. DPO)*.
+
 - 2023.07 - 2024.06
   -- [https://jxhe.github.io/group *NLP Group, Hong Kong University of Science and Technology (HKUST-NLP)*]
   -- Research intern, advised by [https://jxhe.github.io/ *Prof. Junxian He*].
@@ -107,6 +120,7 @@ Accepted by *NeurIPS 2023*
   -- before which I worked on
     --- *process supervision* and *constrained decoding* for *mathematical reasnoning*,
     --- *model merging*.
+
 - 2022.11 - 2023.06
   -- [https://keg.cs.tsinghua.edu.cn/ *Knowledge Engineer Group, Tsinghua University (THUKEG)*]
   -- Research intern, advised by advised by [http://keg.cs.tsinghua.edu.cn/jietang/ *Prof. Jie Tang*] and [https://keg.cs.tsinghua.edu.cn/yuxiao/ *Prof. Yuxiao Dong*].
