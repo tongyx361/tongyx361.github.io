@@ -9,8 +9,11 @@
 I am a *senior undergraduate* at\n
 [https://www.cs.tsinghua.edu.cn/csen/ *Department of Computer Science and Technology (DCST)*],\n [https://www.tsinghua.edu.cn/en/ *Tsinghua University (THU)*].\n
 
+and a *core contributor* of [https://github.com/volcengine/verl +verl+],\n
+a large-scale reinforcement learning library for LLMs.
+
 I used to
-- lead the infrastruture and contribute to the algorithm of [https://dapo-sia.github.io/ *DAPO: an Open-Source LLM Reinforcement Learning System at Scale*] at Seed-Foundation, ByteDance, advised by Chi Zhang and [https://sites.google.com/view/haibinlin/ *Haibin Lin*]
+- lead the infrastructure and contribute to the algorithm of [https://dapo-sia.github.io/ *DAPO: an Open-Source LLM Reinforcement Learning System at Scale*] at Seed-Infrastructures, ByteDance, advised by Chi Zhang and [https://sites.google.com/view/haibinlin/ *Haibin Lin*]
 - lead the project [https://github.com/eddycmu/demystify-long-cot */Demystifying Long Chain-of-Thought Reasoning in LLMs/*] at [https://www.lti.cs.cmu.edu/ *LTI, CMU*],
 advised by [https://www.phontron.com/ *Prof. Graham Neubig*] and [https://xiangyue9607.github.io/ *Dr. Xiang Yue*].
 - lead [https://github.com/hkust-nlp/dart-math */DART-Math/*] at [https://jxhe.github.io/group *HKUST-NLP*],
@@ -36,7 +39,8 @@ Specifically, I am interested in the following topics:
   -- Education (e.g. [https://eurekalabs.ai Eureka Labs])
   -- Research (e.g. [https://scicode-bench.github.io/ SciCode-Bench])
   -- Software Engineering (e.g. [https://www.swebench.com SWE-Bench])
-- Scalable Alignment（e.g. [https://www.anthropic.com/index/core-views-on-ai-safety Scalable Oversight])
+- Reinforcement Learning for Large Language Models (e.g. [https://openai.com/o1/ OpenAI o1])
+- Evaluation & Alignment（e.g. [https://www.anthropic.com/index/core-views-on-ai-safety Scalable Oversight])
 - Hardware-Aware Algorithm Design (e.g. [https://github.com/Dao-AILab/flash-attention Flash Attention])
 
 == Publications
@@ -47,21 +51,23 @@ Specifically, I am interested in the following topics:
 
 Qiying Yu\*, Zheng Zhang\*, _*Yuxuan Tong*_\*$^{\dagger}$, Guangming Sheng\*$^{\dagger}$, ..., Yonghui Wu, Mingxuan Wang
 
-Preprint ($\dagger$ denotes infrastruture leader)
+Preprint, under review ($\dagger$ denotes infrastructure lead)
 
 \[🏠 [https://dapo-sia.github.io/ Homepage]\]
-\[📝 [https://dapo-sia.github.io/static/pdf/dapo_paper.pdf Paper]\]
+\[📝 [https://arxiv.org/abs/2503.14476 Paper@arXiv]\]
 \[🐱 [https://github.com/volcengine/verl/tree/gm-tyx/puffin/main/recipe/dapo Code@GitHub]\]
-\[📑 [https://huggingface.co/datasets/BytedTsinghua-SIA/DAPO-Math-17k Dataset]\]
+\[🤗 [https://huggingface.co/collections/BytedTsinghua-SIA/dapo-67d7f1517ee33c8aed059da0 Datasets&Models@HF]\]
 
 === [https://arxiv.org/abs/2502.03373 *Demystifying Long Chain-of-Thought Reasoning in LLMs*]
 
-Edward Yeo\*, _*Yuxuan Tong*_\*, Morry Niu, [https://www.phontron.com/ Graham Neubig], [https://xiangyue9607.github.io/ Xiang Yue]
+Edward Yeo\*, _*Yuxuan Tong*_\*, Xinyao Niu, [https://www.phontron.com/ Graham Neubig], [https://xiangyue9607.github.io/ Xiang Yue]
 
-Preprint, under review
+Accepted by [https://icml.cc/virtual/2025/poster/45449 ICML 2025]; Awarded as *Best Paper* by [https://fm-wild-community.github.io/ ICLR 2025 FM-Wild Workshop]
 
 \[📝 [https://arxiv.org/abs/2502.03373 Paper@arXiv]\]
+\[🧠 [https://icml.cc/virtual/2025/poster/45449 Publication@ICML]\]
 \[🐱 [https://github.com/eddycmu/demystify-long-cot Code@GitHub]\]
+\[🤗 [https://huggingface.co/collections/demystify-long-cot/demysitifying-long-cot-67d39c4f5b7c664195fa07c2?additem=true Datasets&Models@HF]\]\n
 \[🐦 [https://x.com/xiangyue96/status/1887332772198371514 Thread@X(Twitter)]\]
 \[📑 [https://github.com/eddycmu/demystify-long-cot?tab=readme-ov-file\#citation BibTeX]\]
 
@@ -73,8 +79,8 @@ Accepted by *NeurIPS 2024*
 
 \[📝 [https://arxiv.org/abs/2407.13690 Paper@arXiv]\]
 \[🧠 [https://nips.cc/virtual/2024/poster/92959 Publication@NeurIPS]\]
-\[🤗 [https://huggingface.co/collections/hkust-nlp/dart-math-665704599b35de59f8fdf6c1 Datasets&Models@HF]\]
-\[🐱 [https://github.com/hkust-nlp/dart-math Code@GitHub]\]\n
+\[🐱 [https://github.com/hkust-nlp/dart-math Code@GitHub]\]
+\[🤗 [https://huggingface.co/collections/hkust-nlp/dart-math-665704599b35de59f8fdf6c1 Datasets&Models@HF]\]\n
 \[🐦 [https://x.com/tongyx361/status/1811413243350454455 Thread@X(Twitter)]\]
 \[🐶 [https://zhuanlan.zhihu.com/p/708371895 中文博客@知乎]\]
 \[📊 [https://paperswithcode.com/paper/dart-math-difficulty-aware-rejection-tuning\#results Leaderboard@PapersWithCode]\]
@@ -88,6 +94,7 @@ Accepted by *NeurIPS 2023*
 
 \[📝 [https://arxiv.org/abs/2304.05977 Paper@arXiv]\]
 \[🧠 [https://neurips.cc/virtual/2023/poster/72054 Publication@NeurIPS]\]
+\[🐱 [https://github.com/THUDM/ImageReward Code@GitHub]\]
 \[🖼️ [https://huggingface.co/datasets/THUDM/ImageRewardDB Dataset@HF]\]
 \[🤖 [https://huggingface.co/THUDM/ImageReward Model@HF]\]\n
 \[🐦 [https://x.com/thukeg/status/1646507411203829762 Thread@X(Twitter)]\]
@@ -96,17 +103,17 @@ Accepted by *NeurIPS 2023*
 
 == Education
 
-- Undergraduate (2021.09 - present)
+- Undergraduate (2021.09 - 2025.07, Expected)
   -- [https://www.cs.tsinghua.edu.cn/csen *Department of Computer Science and Technology (DCST)*], [https://www.tsinghua.edu.cn/en *Tsinghua University (THU)*]
   -- Bachelor's degree in progress
-  -- GPA: 3.8/4.0
+  -- GPA: 3.7/4.0
 
 == Research Experience
 
 - 2025.02 - Present
-  -- Seed-Foundation, ByteDance
+  -- Seed-Infrastructures, ByteDance
   -- Research intern, advised by *Chi Zhang* and [https://sites.google.com/view/haibinlin/ *Haibin Lin*]
-  -- Working on *large-scale reinforcement learning infrastruture*.
+  -- Working on *large-scale reinforcement learning infrastructure*.
 
 - 2024.07 - 2025.02
   -- [https://www.lti.cs.cmu.edu/ *Language Technologies Institute (LTI), Carnegie Mellon University (CMU)*]
@@ -118,7 +125,7 @@ Accepted by *NeurIPS 2023*
   -- Research intern, advised by [https://jxhe.github.io/ *Prof. Junxian He*].
   -- Worked on *synthetic data for mathematical reasoning* since 2023.12,
   -- before which I worked on
-    --- *process supervision* and *constrained decoding* for *mathematical reasnoning*,
+    --- *process supervision*, *reward modeling*, and *constrained decoding* for *mathematical reasoning*,
     --- *model merging*.
 
 - 2022.11 - 2023.06
@@ -128,24 +135,23 @@ Accepted by *NeurIPS 2023*
 
 == Projects
 
-- Maintainer of the LLM RL library [https://github.com/volcengine/verl +verl+]
+- Maintainer and core contributor of the LLM RL library [https://github.com/volcengine/verl +verl+] (2025.02 - Present)
 
 == Awards
 
-- Tsinghua University /Research Scholarship/ (2024)
-- Tsinghua University /Research Scholarship/ (2023)
+- Tsinghua University /Research Scholarship/ (2023, 2024)
 - Tsinghua University /Comprehensive Merit Scholarship/ *(top 5% undergraduates)* (2022)
 
 == Academic Services
 
 - Conference Review: [https://openreview.net/group?id=NeurIPS.cc/2024/Conference NeurIPS 2024],
-[https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/MATH-AI NeurIPS'24 Workshop on Math-AI],
 [https://openreview.net/group?id=ICLR.cc/2025/Conference ICLR 2025],
-[https://openreview.net/group?id=ICML.cc/2025/Conference ICML 2025]
+[https://openreview.net/group?id=ICML.cc/2025/Conference ICML 2025],
+[https://openreview.net/group?id=NeurIPS.cc/2025/Conference NeurIPS 2025]
 
 == Skills
 
-- *Programming Languages*: Python, C\/C\+\+, TypeScript\/JavaScript, etc.
+- *Programming Languages*: Python, C\/C\+\+, TypeScript\/JavaScript, SpinalHDL, System Verilog, etc.
 - *ML Libraries*: PyTorch, DeepSpeed, HuggingFace, vLLM/SGLang, etc.
 - *Tools*: Git, Shell, SLURM, Linux Utilities, LaTeX, etc.
 
